@@ -3,21 +3,21 @@
   <groupId>com.brianeno.maven.plugin</groupId>
   <artifactId>github-maven-repo-example</artifactId>
   <versioning>
-    <lastUpdated>20230919080346</lastUpdated>
+    <lastUpdated>20230919082456</lastUpdated>
     <snapshot>
-      <timestamp>20230919.080346</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20230919.082456</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20230919.080346-1</value>
-        <updated>20230919080346</updated>
+        <value>0.0.1-20230919.082456-2</value>
+        <updated>20230919082456</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20230919.080346-1</value>
-        <updated>20230919080346</updated>
+        <value>0.0.1-20230919.082456-2</value>
+        <updated>20230919082456</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
